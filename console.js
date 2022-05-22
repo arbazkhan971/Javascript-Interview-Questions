@@ -18,6 +18,14 @@ The most common Console methods:
 
 
 // Language: javascript
-let obj = {"_id":"WuHLOLFI2uKy","content":"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.","author":"Dalai Lama","authorSlug":"dalai-lama","length":109,"dateAdded":"2021-01-20","dateModified":"2021-01-20"};
+let obj2 =
+[
+    {"_id":"WuHLOLFI2uKy","content":"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.","author":"Dalai Lama","authorSlug":"dalai-lama","length":109,"dateAdded":"2021-01-20","dateModified":"2021-01-20"},
+    {"_id":"WuHLOLFI2uKy","content":"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.","author":"Dalai Lama","authorSlug":"dalai-lama","length":109,"dateAdded":"2021-01-20","dateModified":"2021-01-20"},
+    {"_id":"WuHLOLFI2uKy","content":"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.","author":"Dalai Lama","authorSlug":"dalai-lama","length":109,"dateAdded":"2021-01-20","dateModified":"2021-01-20"},
+    {"_id":"WuHLOLFI2uKy","content":"To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.","author":"Dalai Lama","authorSlug":"dalai-lama","length":109,"dateAdded":"2021-01-20","dateModified":"2021-01-20"}
+
+]
+
 // console.log("%c Hello World", "color: red; font-size: 30px;");
 // console.log(obj)
